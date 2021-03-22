@@ -1,0 +1,26 @@
+body {
+	font-family: "Calibri";
+	color: white;
+	text-align: center;
+	overflow: hidden;
+	margin: 0;
+}
+
+.curved {
+	background-color: #0099ff;
+}
+
+.curved svg{
+	display: block;
+}
+
+a.button {
+	text-decoration: none;
+	background-color: #6a5acd;
+	color: white;
+	padding: 10px 20px;
+	border-radius: 25px;
+}
+
+
+
